@@ -1,7 +1,7 @@
 // Variáveis para cadastro de eventos
 let IdadeMinima = 18
 if (IdadeMinima >= 18) {
-    console.log ("Informe a quantidade de participantes no evento")
+    console.log ("Informe a quantidade de participantes")
 } else {
     console.log ("Não é possível cadastrar eventos. É necessário ter pelo menos 18 anos")
 }
